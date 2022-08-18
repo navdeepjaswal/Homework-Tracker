@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Math 520",
+      "day": "Tuesday 9:00 PM",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "English 350",
+      "day": "Sunday 11:59 PM",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "CSCI 657",
+      "day": "Thursday 8:00 PM",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
